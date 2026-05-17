@@ -746,7 +746,7 @@ fn prepare(
     }
 
     // Just to make diff'ing easier.
-    // Synced with Zig build runner, version "0.17.0-dev.261+3d1fb4fac".
+    // Synced with Zig build runner, version "0.17.0-dev.305+bdfbf432d".
     if (true) return zig_ebuilder_section: {
         const Report = @import("Report.zig");
 
